@@ -19,7 +19,7 @@ npx expo start
 The purpose of the app is a study tool so that while you study with an AI assistant, a test set is preparing for you to study on the go!
 
 ## Demo:
-<img src="https://github.com/SMUEric1127/Frontend-HackSMU-GPT3StudyApp/blob/main/demo.gif" width="320" height="550"/>
+<img src="https://github.com/SMUEric1127/Frontend-HackSMU-GPT3StudyApp/blob/main/demo.gif" width="320" height="568"/>
 
 ## 2nd Place Cartesi Challenge - SMU Hackathon 2023: 
 https://devpost.com/software/quizlog
